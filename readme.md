@@ -2,6 +2,8 @@
 
 ![photo_2021-08-21_19-08-28](https://user-images.githubusercontent.com/55307887/130328007-18ca1915-a120-4e6b-b7eb-d9ecc9cfcbec.jpg)
 
+*ignore the soldering, I'll make a normal later (last updated in 2021)*
+
 ### Recipe
 
 0. Buy the kind of Arduino-things you like; buy about 12 tea spoons of Kailh Red mechanical switches
